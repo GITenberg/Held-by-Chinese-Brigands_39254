@@ -1,0 +1,36 @@
+_repo: Held-by-Chinese-Brigands_39254
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: De Walton, John
+    aliases:
+    - Walton, J. de
+    - Walton, John de
+    gutenberg_agent_id: '45482'
+    url: http://www.gutenberg.org/2009/agents/45482
+covers:
+- cover_type: archival
+  image_path: 39254-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Gilson, Charles
+    alias: Gilson, Charles James Louis
+    birthdate: 1878
+    deathdate: 1943
+    gutenberg_agent_id: '39884'
+    url: http://www.gutenberg.org/2009/agents/39884
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+title: Held by Chinese Brigands
+url: http://www.gutenberg.org/ebooks/39254
