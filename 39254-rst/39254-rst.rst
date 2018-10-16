@@ -6,7 +6,8 @@
    :PG.Released: 2012-03-24
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
-   :DC.Creator: Herbert Strang
+   :PG.Reposted: 2015-05-09 correction of author in PG header
+   :DC.Creator: Charles Gilson
    :MARCREL.ill: John de Walton
    :DC.Title: Held by Chinese Brigands
    :DC.Language: en
